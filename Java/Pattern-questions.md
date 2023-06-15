@@ -26,3 +26,21 @@
           ***
          *****
         *******
+# Pattern question - 6: (Star Pattern)
+        * * * * *
+         * * * *
+          * * *
+           * *
+            *
+            *
+           * *
+          * * *
+         * * * *
+        * * * * *
+# Pattern question - 7: (Advance Number pattern)    
+            1
+          2 1 2
+        3 2 1 2 3
+      4 3 2 1 2 3 4
+    5 4 3 2 1 2 3 4 5
+        
